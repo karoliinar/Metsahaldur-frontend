@@ -11,8 +11,11 @@ Projekt on loodud Tarkvaraarenduse praktika suvetöö raames.
 (kasutatud tehnoloogiaid ja nende versioonid;)
 
 (kasutajate või nimede loetelu, kes projekti panustasid;)
+
 ##Digitehnoloogiate Instituut
+
 ###Projekti panustasid
+
 Meie tiim: 
 Greg Nesselmann
 Henry Savi
