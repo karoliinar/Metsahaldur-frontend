@@ -1,3 +1,36 @@
+# Metsahaldur 
+:squirrel: :gun:
+
+(ekraanipilti või eraldi loodud pilti lahendusest.)
+(eesmärki ja lühikirjeldust (3-4 lauset, mis probleemi rakendus lahendab);)
+Metsahalduri lehestiku eesmärk on muuta metsa haldamine metsahalduri firma jaoks lihtsaks ja veebipõhiseks. Rakendus lihtsustab Metsahaldur OÜ klientide ja ettevõtte vahelist andmevahetust. Veebilehega kaotatakse ära vajadus käsitisi andmete  sisestamiseks ja haldamiseks. Rakendus hõlbustab suuresti metsahalduri töötajate töövoogu. 
+
+Projekt on loodud Tarkvaraarenduse praktika suvetöö raames. 
+
+
+(kasutatud tehnoloogiaid ja nende versioonid;)
+
+(kasutajate või nimede loetelu, kes projekti panustasid;)
+>Digitehnoloogiate Instituut
+###Projekti panustasid
+Meie tiim: 
+>Greg Nesselmann
+>Henry Savi
+>Karoliina Roots
+>Toomas Thetloff
+>Veljo Lasn
+
+Tiimiväline abi: 
+>Erko Soolmann
+>Romil Robtsenkov
+
+
+selgeid paigaldusjuhiseid;
+viidet litsentsile.
+
+
+
+
 #### Metsahaldur
 
 react-scss-webpack boilerplate.
