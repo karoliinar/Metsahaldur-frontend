@@ -11,18 +11,18 @@ Projekt on loodud Tarkvaraarenduse praktika suvetöö raames.
 (kasutatud tehnoloogiaid ja nende versioonid;)
 
 (kasutajate või nimede loetelu, kes projekti panustasid;)
->Digitehnoloogiate Instituut
+##Digitehnoloogiate Instituut
 ###Projekti panustasid
 Meie tiim: 
->Greg Nesselmann
->Henry Savi
->Karoliina Roots
->Toomas Thetloff
->Veljo Lasn
+Greg Nesselmann
+Henry Savi
+Karoliina Roots
+Toomas Thetloff
+Veljo Lasn
 
 Tiimiväline abi: 
->Erko Soolmann
->Romil Robtsenkov
+Erko Soolmann
+Romil Robtsenkov
 
 
 selgeid paigaldusjuhiseid;
